@@ -117,7 +117,7 @@ This setup provides insights into Spotify data for analysis, reporting, and dash
     Snowflake's `LOAD_HISTORY` table can be queried to monitor Snowpipe activity.
 
 ## Data Visualization
-
+![Screenshot_20241101_093653](https://github.com/user-attachments/assets/4e10aa64-6ea0-4f2b-ac9d-b5d2dfc706ad)
 ### Looker Studio Setup
 
 1. Connect Looker Studio to Snowflake by configuring a data source connection.
@@ -132,7 +132,7 @@ This setup provides insights into Spotify data for analysis, reporting, and dash
 
 ## Contributors
 
-- **Your Name** - [GitHub](https://github.com/yourusername)
+- **Shubham** - [GitHub](https://github.com/shrishu316)
 
 ## License
 
