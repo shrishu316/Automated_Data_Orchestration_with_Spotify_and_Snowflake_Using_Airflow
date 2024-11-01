@@ -92,6 +92,7 @@ This setup provides insights into Spotify data for analysis, reporting, and dash
 5. **Visualization in Looker Studio** - Connect Looker Studio to Snowflake and build visualizations and dashboards.
 
 ### Airflow DAG
+![Screenshot From 2024-11-01 12-42-31](https://github.com/user-attachments/assets/efbcb46b-0438-4075-ab26-ac5019925460)
 
 - The Airflow DAG orchestrates the ETL process, running tasks on a schedule.
 - Key tasks in the DAG:
